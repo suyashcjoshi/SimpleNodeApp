@@ -1,4 +1,4 @@
-# SimpleNodeApp
+# Simple Node App configured for Oracle Cloud
 An Introduction to running a Simple Node.JS application on Oracle Cloud (ACCS)
 
 This repository provides code sample to run Node.JS application (v6) in a Docker Container on Oracle Cloud Platform.
