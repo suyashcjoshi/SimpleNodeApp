@@ -1,7 +1,7 @@
 // Copyright (c) 2019 Oracle and/or its affiliates. All rights reserved.
 
 var http = require("http");
-// Read Enviornment Parameters
+// Read Enviornment Parameters from Oracle Cloud
 var port = Number(process.env.PORT || 8080);
 var greeting = (process.env.GREETING || "Hello World from Oracle Cloud!");
 // Create a simple HTTP Server
